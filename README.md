@@ -28,7 +28,7 @@ Glamora delivers a refined and seamless shopping journey, enabling users to expl
 https://github.com/user-attachments/assets/44466bfc-5b3f-4cb0-abc5-14a06265b93d
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-glamoraapp-activity-7282316866977492992-aGAi?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
